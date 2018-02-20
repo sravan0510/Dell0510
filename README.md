@@ -19,4 +19,8 @@ Inspiron after maser dell
 inspiron core i7
 master dell after inspiron
 
+
 02200237
+
+02200236
+
