@@ -13,4 +13,4 @@ version 4
 
 Master Dell
 
-master dell before inspiron
+master dell after inspiron
