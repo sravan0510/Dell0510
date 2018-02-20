@@ -12,3 +12,5 @@ Inspiron
 version 4
 
 Master Dell
+
+Inspiron after maser dell
