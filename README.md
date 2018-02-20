@@ -8,4 +8,6 @@ Keypad
 Mouse
 
 TouchPad
+Inspiron
+version 4
 
