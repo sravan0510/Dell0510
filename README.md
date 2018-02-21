@@ -9,3 +9,6 @@ inspiron2
 
 inspiron3
 inspiron4
+
+inspiron5
+inspiron6
