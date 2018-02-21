@@ -29,3 +29,6 @@ master6
 
 inspiron11
 inspiron12
+
+inspiron13
+inspiron14
