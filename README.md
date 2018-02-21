@@ -37,3 +37,4 @@ inspiron15
 inspiron16
 
 new inspiron1
+new inspiron 17
