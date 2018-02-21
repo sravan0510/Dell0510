@@ -36,4 +36,12 @@ inspiron14
 inspiron15
 inspiron16
 
+
+new inspiron1
+new inspiron 17
+new 
+
+new inspiron 18
+
 master17
+
