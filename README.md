@@ -38,3 +38,6 @@ inspiron16
 
 new inspiron1
 new inspiron 17
+new 
+
+new inspiron 18
