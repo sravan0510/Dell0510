@@ -26,3 +26,5 @@ master dell after inspiron
 
 
 wednesday
+
+thursday
