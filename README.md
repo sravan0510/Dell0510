@@ -19,7 +19,7 @@ Inspiron after maser dell
 inspiron core i7
 master dell after inspiron
 
-
+wednesday
 02200237
 
 02200236
