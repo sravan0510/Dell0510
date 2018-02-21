@@ -19,3 +19,6 @@ master4
 
 inspiron7
 inspiron8
+
+master5
+master6
