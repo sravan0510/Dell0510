@@ -29,3 +29,5 @@ friday
 wednesday
 
 thursday
+
+friday
