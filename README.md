@@ -32,3 +32,6 @@ inspiron12
 
 inspiron13
 inspiron14
+
+inspiron15
+inspiron16
