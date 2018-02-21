@@ -25,6 +25,7 @@ wednesday
 02200236
 
 
+friday
 wednesday
 
 thursday
