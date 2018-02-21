@@ -27,3 +27,5 @@ inspiron10
 master5
 master6
 
+inspiron11
+inspiron12
