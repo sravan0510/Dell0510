@@ -17,3 +17,5 @@ inspiron6
 master3
 master4
 
+inspiron7
+inspiron8
